@@ -7,8 +7,6 @@ $.validator.addMethod(
     },
     "Please enter a date in the format dd/mm/yyyy."
 );
-/*
-
 
 
 //移动设备判断

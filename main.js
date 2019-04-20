@@ -10,7 +10,7 @@ $.validator.addMethod(
 /*
 
 
-<script>
+
 //移动设备判断
 var isMobile = {
     Android: function() {
@@ -38,4 +38,4 @@ var myNav = navigator.userAgent.toLowerCase();
 return (myNav.indexOf('msie') != -1) ? parseInt(myNav.split('msie')[1]) : false;
 };
 
-</script>
+
